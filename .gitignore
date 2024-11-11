@@ -25,3 +25,6 @@ phpstan.neon
 ###< Local Docker Environment ###
 /Docker/
 docker-compose.yaml
+/compose.override.yaml
+/compose.yaml
+/symfony.lock
